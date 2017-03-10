@@ -1,0 +1,5 @@
+﻿  deploy.cpp
+d:\cppcode\deploy\deploy\deploy\deploy.cpp(57): warning C4091: “typedef ”: 没有声明变量时忽略“Node”的左侧
+d:\cppcode\deploy\deploy\deploy\deploy.cpp(55): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Deploy.vcxproj -> D:\CppCode\Deploy\Deploy\x64\Debug\Deploy.exe
+  Deploy.vcxproj -> D:\CppCode\Deploy\Deploy\x64\Debug\Deploy.pdb (Partial PDB)
